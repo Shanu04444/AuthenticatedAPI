@@ -1,4 +1,4 @@
-namespace Authenticated;
+namespace AuthenticatedAPI;
 
 public class ShoppingCart
 {
